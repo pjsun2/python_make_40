@@ -1,3 +1,7 @@
 A big fish in a little pond
 A good medicine tastes bitter
+<<<<<<< HEAD
 NO pain No gain
+=======
+No pain No gain
+>>>>>>> 78553383c1120ba83f200af3f067f4edfe1e9025
